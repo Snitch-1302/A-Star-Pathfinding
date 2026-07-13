@@ -58,7 +58,7 @@ Clone the repo and run:
 ```bash
 git clone https://github.com/Snitch-1302/A-Star-Pathfinding.git
 cd A-Star-Pathfinding
-python project.py
+python astar_visualizer.py
 ```
 
 Make sure `ufo.jpg` (used as the window icon) stays in the same directory as `project.py`.
